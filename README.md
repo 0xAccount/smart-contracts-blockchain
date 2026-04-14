@@ -7,6 +7,18 @@
 
 Functional **on-chain social coordination protocol** where users stake tokens to publish content and vote on what gets surfaced next.
 
+<p align="center">
+  <a href="https://bscscan.com/address/0x18f7B5aB35B2f23Ccb18FA3833E73eAAfA57b400">
+    <img src="https://img.shields.io/badge/View-Contract%20on%20BscScan-yellow?logo=binance&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://bscscan.com/address/0x18f7B5aB35B2f23Ccb18FA3833E73eAAfA57b400" target="_blank">
+    <img src="https://raw.githubusercontent.com/0xAccount/community-contracts/0ca3acf835368f4294cb3dae0e44431ef6507648/Contract%20BSC.png" width="70%" />
+  </a>
+</p>
+
+
 ## Core Idea
 
 Users **stake DAI to publish content (tweets)** and the community **votes to decide visibility/priority**.
