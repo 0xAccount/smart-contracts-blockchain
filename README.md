@@ -5,7 +5,7 @@
 ![Token](https://img.shields.io/badge/Token-DAI-F5AC37)
 ![Status](https://img.shields.io/badge/Status-Experimental-blueviolet)
 
-A minimalistic **on-chain social coordination protocol** where users stake tokens to publish content and vote on what gets surfaced next.
+Functional **on-chain social coordination protocol** where users stake tokens to publish content and vote on what gets surfaced next.
 
 ## Core Idea
 
